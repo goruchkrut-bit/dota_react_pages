@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dota_react_pages/static/css/main.a797a1c2.css",
+    "main.js": "/dota_react_pages/static/js/main.7fae9578.js",
+    "static/js/488.bf0de1a8.chunk.js": "/dota_react_pages/static/js/488.bf0de1a8.chunk.js",
+    "index.html": "/dota_react_pages/index.html",
+    "main.a797a1c2.css.map": "/dota_react_pages/static/css/main.a797a1c2.css.map",
+    "main.7fae9578.js.map": "/dota_react_pages/static/js/main.7fae9578.js.map",
+    "488.bf0de1a8.chunk.js.map": "/dota_react_pages/static/js/488.bf0de1a8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a797a1c2.css",
+    "static/js/main.7fae9578.js"
+  ]
+}
